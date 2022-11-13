@@ -1,4 +1,4 @@
-![Header](https://github.com/bty-dev/bty-dev/blob/main/assets/bty_preview_anim.gif)
+![Header](https://github.com/bty-dev/bty-dev/blob/main/assets/bty_preview_animation.gif)
 
 ## Hey! I'm bty, welcome to my profile <3
 
