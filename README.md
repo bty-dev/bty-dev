@@ -1,6 +1,6 @@
 ![Header](https://github.com/bty-dev/bty-dev/blob/main/assets/bty_preview.jpg)
 
-## I'm beginner software engineer c:
+## Hey! I'm bty, welcome to my profile <3
 
 ### Languages and tools
 ![Html5](https://img.shields.io/badge/-Html-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
