@@ -9,5 +9,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=Typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=ffffff)
+![Go](https://img.shields.io/badge/-go-000000?style=for-the-badge&logo=go&logoColor=ffffff)
 
-Contact me
+### Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/btyyyyyy)
